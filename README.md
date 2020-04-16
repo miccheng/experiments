@@ -1,9 +1,3 @@
-# experiments
+# Experiments
 
-Some changes in local. Pushed to GitHub.
-
-Some changes in local. Pushed to localgit.
-
-Changes for GitHub.
-
-Changes for local.
+Just cleaning up
