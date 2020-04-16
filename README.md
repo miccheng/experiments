@@ -6,4 +6,4 @@ Shot from GitHub. Firing from GitHub to Local.
 
 From local
 
-Trying pre-receive. Hmm...
+Trying post-receive.
